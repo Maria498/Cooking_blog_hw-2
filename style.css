@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+body{
+  font-family: 'Poppins', sans-serif; 
+  scroll-behavior: smooth;
+  background-color: rgb(245, 245, 248);
+}
+ul {
+  list-style-type: none;
+}
+.navbar-brand, h2{
+  font-family: 'Rubik Moonrocks', cursive;
+  color: lightcoral!important;
+}
+.form-horizontal{
+  display:block;
+  width:70%;
+  margin:0 auto;
+} 
+.form-text, .form-label {
+  padding: 0.5rem 0rem;
+}
+h1 {
+  font-family: 'Send Flowers';  
+  color: rgb(0, 0, 0)!important;
+}
+
+.btn.btn-link{
+  color: rgb(110, 119, 119)!important;
+  margin-left: 5%;
+}
+.text-muted{
+  color: rgb(50, 168, 204)!important;
+}
+a:hover, .btn-link:hover {
+  color: lightcoral!important;
+}
+button:hover{
+  color: lightcoral!important;
+  background-color:white!important;
+}
+.tb-link, .breadcrumb-item{
+  color: rgb(110, 119, 119)!important;
+}
+a, .form-check-input {
+  color: rgb(110, 119, 119)!important;
+}
+
+
+
